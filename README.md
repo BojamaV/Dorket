@@ -14,3 +14,5 @@ git clone https://github.com/BojamaV/Dorket.git
 cd Dorket
 
 python3 Dorket.py
+
+Make sure you have python installed
