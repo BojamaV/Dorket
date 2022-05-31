@@ -15,4 +15,4 @@ cd Dorket
 
 python3 Dorket.py
 
-Make sure you have python installed
+Make sure you have python 3 installed
