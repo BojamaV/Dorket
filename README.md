@@ -7,6 +7,8 @@ Don't take my code :)
 
 # Installation
 
+pip install colorama
+
 pip install google (required)
 
 git clone https://github.com/BojamaV/Dorket.git
